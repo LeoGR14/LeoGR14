@@ -3,7 +3,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Soy estudiante de Ingeniería de Ejecución en Computación e Informática en la universida UBB 
-
-
-
 ---
+
+## 📚 Formación Académica
+
+- **Carrera**: Ingeniería de Ejecución en Computación e Informática.
+- **Universidad**: Universidad del BioBio.
+- **Año actual**: 4to año de carrera.
