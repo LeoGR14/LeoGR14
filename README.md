@@ -15,7 +15,7 @@
 ## 🛠️ Habilidades Técnicas
 
 - **Lenguajes de Programación**: Python
-- **Bases de Datos**: PostgreSQL
+- **Bases de Datos**: PostgreSQL, MySQL
 
 ---
 ## 📫 Contacto
