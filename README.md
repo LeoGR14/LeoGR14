@@ -3,19 +3,9 @@
 ### 🌱 Siempre en constante aprendizaje <img align="right" alt="GIF" height="90px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 ---
 
-## 📚 Formación Académica
-
-- **Carrera**: Ingeniería de Ejecución en Computación e Informática.
-- **Universidad**: Universidad del BioBio.
-- **Año actual**: 4to año de carrera.
-
----
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes de Programación**: Python
+- **Lenguajes de Programación**: Python, HTML, CSS, Java, JavaScript
 - **Bases de Datos**: PostgreSQL, MySQL
+- **Ciberseguiridad: Cisco
 
----
-## 📫 Contacto
-
-- **Correo**: leonardo.godoy2101@alumnos.ubiobio.cl
