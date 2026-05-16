@@ -16,9 +16,7 @@ Me gusta aprender nuevas tecnologías y desarrollar proyectos que me permitan me
 - SQL / MySQL
 
 ## Redes y Ciberseguridad
-- VLAN
 - Routing básico
-- Packet Tracer
 - Seguridad en redes
 - Gestión y soporte de sistemas
 - Fundamentos de ciberseguridad
