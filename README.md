@@ -1,11 +1,37 @@
-# Hola soy leonardo <img width="30px"  src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hola, soy Leonardo Matías Godoy Riquelme
 
-### 🌱 Siempre en constante aprendizaje <img align="right" alt="GIF" height="90px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+Estudiante de Tecnología y Ciberseguridad.    
+Me gusta aprender nuevas tecnologías y desarrollar proyectos que me permitan mejorar mis habilidades técnicas.
+
 ---
 
-## 🛠️ Habilidades Técnicas
+# Conocimientos
 
-- **Lenguajes de Programación**: Python, HTML, CSS, Java, JavaScript
-- **Bases de Datos**: PostgreSQL, MySQL
-- **Ciberseguiridad: Cisco
+## Programación
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- SQL / MySQL
 
+## Redes y Ciberseguridad
+- VLAN
+- Routing básico
+- Packet Tracer
+- Seguridad en redes
+- Gestión y soporte de sistemas
+- Fundamentos de ciberseguridad
+
+## Herramientas
+- VS Code
+- Linux
+- MySQL
+- Bizagi
+
+---
+
+# Estudios
+
+Anteriormente estudié Ingeniería en Informática.  
+Actualmente estudio Técnico en Ciberseguridad.
